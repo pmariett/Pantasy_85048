@@ -52,6 +52,10 @@ Un projet de radio FM/Bluetooth intégrée dans un boîtier Légo (inspiré du s
 - [Guide d'assemblage](docs/assembly_guide.md)
 - [Câblage Arduino Pro Mini](Arduino_Pro-mini/hardware/wiring.md)
 - [Câblage ESP32-C3](ESP32-C3/hardware/wiring.md)
+  
+## Aperçu
+
+![Pantasy](docs/images/pantasy-original.jpg)
 
 ---
 
