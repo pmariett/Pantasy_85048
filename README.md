@@ -40,6 +40,22 @@ Un projet de radio FM/Bluetooth intégrée dans un boîtier Légo (inspiré du s
 ---
 
 ## Installation
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/radio_vintage_lego.git
+1. Clonez le dépôt :  git clone https://github.com/votre-utilisateur/radio_vintage_lego.git
+2. Ouvrez le dossier de la version choisie (Arduino_Pro-mini ou ESP32-C3).
+3. Ouvrez le fichier .ino dans l'Arduino IDE.
+4. Compilez et téléversez le code.
+
+---
+
+### Documentation
+
+    Liste des composants (#)
+    Guide d'assemblage (#)
+    Câblage Arduino Pro Mini (#)
+    Câblage ESP32-C3 (#)
+
+---
+
+### Licence
+
+Ce projet est sous licence MIT. Voir le fichier LICENSE (#)
