@@ -57,4 +57,4 @@ Un projet de radio FM/Bluetooth intégrée dans un boîtier Légo (inspiré du s
 
 ### Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE.md)
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE)
