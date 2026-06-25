@@ -5,6 +5,38 @@ Un projet de radio FM/Bluetooth intégrée dans un boîtier Légo (inspiré du s
 
 ---
 
+## Concept
+
+L'objectif est de transformer le poste de radio inspiré du set Pantasy 85048 en une véritable radio fonctionnelle.
+
+Fonctionnalités prévues :
+
+- Réception FM via un module RDA5807M
+- Lecture Bluetooth via un module MH-M18
+- Utilisation des commandes rotatives LEGO du modèle d'origine
+- Alimentation intégrée via le module USB-C fourni avec le set
+- Conservation de l'esthétique extérieure du modèle
+
+---
+
+## Roadmap
+
+### V1
+- [ ] Réception FM
+- [ ] Réglage des stations par molette LEGO
+- [ ] Amplification audio
+- [ ] Intégration mécanique
+
+### V2
+- [ ] Mode Bluetooth
+- [ ] Sélection FM / Bluetooth
+
+### V3
+- [ ] Sauvegarde de la dernière station
+- [ ] Optimisation de la consommation
+
+---
+
 ## Structure du projet
 | Dossier          | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
@@ -21,7 +53,7 @@ Un projet de radio FM/Bluetooth intégrée dans un boîtier Légo (inspiré du s
   - Module RDA5807M (FM)
   - Module Bluetooth MH-M18
   - Ampli PAM8403
-  - Potentiomètres 10kΩ (x2)
+  - Potentiomètres 10kΩ (1 ou 2, l'utilisation du bouton de gauche n'est pas encore arreté)
   - Régulateur 3.3V (AMS1117-3.3)
   - Haut-parleur 8Ω
 
