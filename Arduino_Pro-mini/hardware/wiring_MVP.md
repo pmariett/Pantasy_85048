@@ -1,4 +1,4 @@
-# 📋 MONTAGE INTÉGRAL - Arduino Pro Mini + RDA5807M + MH-M18 + PAM8403 + 1 HP
+# 📋 MONTAGE MVP - Arduino Pro Mini + RDA5807M + MH-M18 + PAM8403 + 1 HP
 
 ## LÉGENDE COULEURS
 - **Noir** : GND (masse)
